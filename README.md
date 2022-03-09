@@ -4,7 +4,7 @@ Tagged courier issues
 
 ## Prerequisites
 
-Use deafault options when installing
+Use default options when installing
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Git (Standalone)](https://git-scm.com/downloads)
