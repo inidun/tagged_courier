@@ -1,29 +1,54 @@
-# Article segmented courier corpus 
+# Curation of article segmented Courier corpus 
 
 ## Introduction
 
-Each document contains the entire OCR:ed text for a single Courier issue. The first line **`# [ID](link)`** is a link to the original source PDF. Each page in the document begins with link **`#[page-number](link)`** to the that page in the original PDF.
+Each document contains the entire OCR:ed text, in markdown format, for a single Courier issue. The purpose of the curation is to manually check and correct the article segmentation for each issue in the corpus.
 
-Article text segments within the issue are indicated by an *article header* **`### article-title`** line, and the `article-title` is taken from the Courier article index metadata (link). An article segment ends wither at the end of the page, if a new article begins (a new **`### another-title`**) or if a non-article text segment is encountered (**`### non-article-text`**). 
+## Description
+
+***Document***
+
+The first line in the document **`# [ID](link)`** is a header with a link to the original source PDF. 
+
+***Page***
+
+Each page begins with a header **`## Page [page-number](link) [Number or 🆗]`** containing a link to the same page in the original PDF.
+
+***Article segment***
+
+Article segments within pages are indicated by an article header **`### article-title`** line. The article-title is taken from the Courier [article index](https://github.com/inidun/inidun_data/blob/main/courier/articles/article_index.csv).
+
+An article segment ends when any of the following is encountered:
+
+| Description           | Example                  |
+| --------------------- | ------------------------ |
+| A new article segment | `### other-title`        |
+| A non-article segment | `### non-article-text`   |
+| A new page            | `## [page-number](link)` |
+
+
+### Example
+```md
+# [123456](https://.../courier/123456eng.pdf)
+## [Page 1](https://.../courier/123456eng.pdf#page=1) 🆗
+### Title of article
+article text
+...
+### Non-article text
+non-article text
+...
+```
 
 ## Annotation workflow
-
+...
 
 ## Important guidelines
 
  - If a new article header is added or changed (apart from those that already exit in the document, the title **must** be the same as for existing headers for the same article.)
 
 
-```md
-# [{COURIER_ID}](link_to_pdf)
-## [Page page_number](link_to_pdf_page) 🆗
-### Article title or Non-article
-text 
-...
-```
-
 ## TODO
- - Add Github action that checks that all article titles in each document exist in the article metadata index.
+ - [ ] Add Github action that checks that all article titles in each document exist in the article metadata index.
 
 
 ## Prerequisites
@@ -43,10 +68,10 @@ Use default options when installing
 Default options
 ## Keyboard Shortcut tips
 
-| Command        | Keyboard Shortcut            |
-| -------------- | ---------------------------- |
-| Move line down | `Alt` + `DownArrow`          |
-| Move line up   | `Alt` + `UpArrow`            |
-| Fold level 2   | `Ctrl` + `K`, `Ctrl` + `2`   |
-| Unfold         | `Ctrl` + `K`, `Ctrl` + `J`   |
+| Command        | Keyboard Shortcut          |
+| -------------- | -------------------------- |
+| Move line down | `Alt` + `DownArrow`        |
+| Move line up   | `Alt` + `UpArrow`          |
+| Fold level 2   | `Ctrl` + `K`, `Ctrl` + `2` |
+| Unfold         | `Ctrl` + `K`, `Ctrl` + `J` |
 | Open PDF       | `Ctrl` + `LeftMouseButton` |
