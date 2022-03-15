@@ -8,22 +8,22 @@ Each document contains the entire OCR:ed text, in markdown format, for a single 
 
 ***Document***
 
-The first line in the document **`# [ID](link)`** is a header with a link to the original source PDF. 
+The first line in the document **`# [DOCUMENT_ID](link)`** is a header with a link to the original source PDF. 
 
 ***Page***
 
-Each page begins with a header **`## Page [page-number](link) [Number or 🆗]`** containing a link to the same page in the original PDF.
+Each page begins with a header **`## Page [page-number](link) [MISMATCHES or 🆗]`** containing a link to the same page in the original PDF.
 
 ***Article segment***
 
-Article segments within pages are indicated by an article header **`### article-title`** line. The article-title is taken from the Courier [article index](https://github.com/inidun/inidun_data/blob/main/courier/articles/article_index.csv).
+Article segments within pages are indicated by an article header **`### ARTICLE_ID: article-title`** line. The article-title is taken from the Courier [article index](https://github.com/inidun/inidun_data/blob/main/courier/articles/article_index.csv).
 
 An article segment ends when any of the following is encountered:
 
 | Description           | Example                  |
 | --------------------- | ------------------------ |
-| A new article segment | `### other-title`        |
-| A non-article segment | `### non-article-text`   |
+| A new article segment | `### ARTICLE_ID: another title`        |
+| A non-article segment | `### NON-ARTICLE-TEXT`   |
 | A new page            | `## [page-number](link)` |
 
 
@@ -31,10 +31,10 @@ An article segment ends when any of the following is encountered:
 ```md
 # [123456](https://.../courier/123456eng.pdf)
 ## [Page 1](https://.../courier/123456eng.pdf#page=1) 🆗
-### Title of article
+### 78910: Title of article
 article text
 ...
-### Non-article text
+### NON-ARTICLE-TEXT
 non-article text
 ...
 ```
