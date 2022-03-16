@@ -12,7 +12,7 @@ The first line in the document **`# [DOCUMENT_ID](link)`** is a header with a li
 
 ***Page***
 
-Each page begins with a header **`## Page [page-number](link) [MISMATCHES or 🆗]`** containing a link to the same page in the original PDF.
+Each page begins with a header **`## Page [PAGE-NUMBER](link) [NUM_MISMATCHES]`** containing a link to the same page in the original PDF. `NUM_MISMATCHES` is the number of mismatching article titles on the page reported during the automatic text extraction.
 
 ***Article segment***
 
@@ -24,13 +24,13 @@ An article segment ends when any of the following is encountered:
 | --------------------- | ------------------------ |
 | A new article segment | `### ARTICLE_ID: another title`        |
 | A non-article segment | `### NON-ARTICLE-TEXT`   |
-| A new page            | `## [page-number](link)` |
+| A new page            | `## [PAGE-NUMBER](link)` |
 
 
 ### Example
 ```md
 # [123456](https://.../courier/123456eng.pdf)
-## [Page 1](https://.../courier/123456eng.pdf#page=1) 🆗
+## [Page 1](https://.../courier/123456eng.pdf#page=1) 0
 ### 78910: Title of article
 article text
 ...
