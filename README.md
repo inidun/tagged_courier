@@ -20,11 +20,11 @@ Each *page* begins with a header `## Page [PAGE-NUMBER](link) [NUM_MISMATCHES]` 
 
 An *article segment* ends when any of the following is encountered:
 
-| Description           | Example                  |
-| --------------------- | ------------------------ |
-| A new article segment | `### ARTICLE_ID: another title`        |
-| A non-article segment | `### NON-ARTICLE-TEXT`   |
-| A new page            | `## [PAGE-NUMBER](link)` |
+| Description           | Example                         |
+| --------------------- | ------------------------------- |
+| A new article segment | `### ARTICLE_ID: another title` |
+| A non-article segment | `### NON-ARTICLE-TEXT`          |
+| A new page            | `## [PAGE-NUMBER](link)`        |
 
 
 ### Example
@@ -40,7 +40,9 @@ non-article text
 ```
 
 ## Annotation workflow
-...
+1. Correct title positions in pages with `NUM_MISMATCHES` > 0. Compare with PDF page and move title to the correct position within the page.
+2. Verify title position for pages with `NUM_MISMATCHES` == 0.
+3. Add `### NON-ARTICLE-TEXT` for text segments which don't contain article text.
 
 ## Important guidelines
 
