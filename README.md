@@ -8,7 +8,7 @@ Each document contains the entire OCR:ed text, in markdown format, for a single 
 
 ***Document***
 
-The first line in the *document* `# [DOCUMENT_ID](link)` is a header with a link to the original source PDF. 
+The first line in the *document* `# [DOCUMENT_ID](link) [TOTAL_NUM_MISMATCHES]` is a header with a link to the original source PDF. `TOTAL_NUM_MISMATCHES` is the number of mismatching article titles in the *issue*.
 
 ***Page***
 
@@ -29,7 +29,7 @@ An *article segment* ends when any of the following is encountered:
 
 ### Example
 ```md
-# [123456](https://.../courier/123456eng.pdf)
+# [123456](https://.../courier/123456eng.pdf) 12
 ## [Page 1](https://.../courier/123456eng.pdf#page=1) 0
 ### 78910: Title of article
 article text
