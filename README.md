@@ -8,17 +8,17 @@ Each document contains the entire OCR:ed text, in markdown format, for a single 
 
 ***Document***
 
-The first line in the document **`# [DOCUMENT_ID](link)`** is a header with a link to the original source PDF. 
+The first line in the *document* `# [DOCUMENT_ID](link)` is a header with a link to the original source PDF. 
 
 ***Page***
 
-Each page begins with a header **`## Page [PAGE-NUMBER](link) [NUM_MISMATCHES]`** containing a link to the same page in the original PDF. `NUM_MISMATCHES` is the number of mismatching article titles on the page reported during the automatic text extraction.
+Each *page* begins with a header `## Page [PAGE-NUMBER](link) [NUM_MISMATCHES]` containing a link to the same page in the original PDF. `NUM_MISMATCHES` is the number of mismatching article titles on the page reported during the automatic text extraction.
 
 ***Article segment***
 
-Article segments within pages are indicated by an article header **`### ARTICLE_ID: article-title`** line. The article-title is taken from the Courier [article index](https://github.com/inidun/inidun_data/blob/main/courier/articles/article_index.csv).
+*Article segments* within pages are indicated by an article header `### ARTICLE_ID: article-title` line. The article title is taken from the Courier [article index](https://github.com/inidun/inidun_data/blob/main/courier/articles/article_index.csv).
 
-An article segment ends when any of the following is encountered:
+An *article segment* ends when any of the following is encountered:
 
 | Description           | Example                  |
 | --------------------- | ------------------------ |
@@ -44,7 +44,7 @@ non-article text
 
 ## Important guidelines
 
- - If a new article header is added or changed (apart from those that already exit in the document, the title **must** be the same as for existing headers for the same article.)
+ - :exclamation: If a new article header is added or changed (apart from those that already exist in the document, the title **must** be the same as for existing headers for the same article.
 
 
 ## TODO
@@ -53,14 +53,13 @@ non-article text
 
 ## Prerequisites
 
-Use default options when installing
+1. Install [Visual Studio Code](https://code.visualstudio.com/download)
+2. Install [Git (Standalone)](https://git-scm.com/downloads)
 
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [Git (Standalone)](https://git-scm.com/downloads)
-
+Use default options when installing.
 ## Setup
 
-1. Open `Git CMD`
+1. Open ***Git CMD***
 2. Navigate to desired folder
 3. Clone repo `git clone https://github.com/inidun/tagged_courier.git`
 4. Open Visual Studio Code `code .`
