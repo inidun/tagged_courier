@@ -1,22 +1,20 @@
-# Curation of article segmented Courier corpus 
+# Courier corpus article segmentation
 
 ## Introduction
 
-Each document contains the entire OCR:ed text, in markdown format, for a single Courier issue. The purpose of the curation is to manually check and correct the article segmentation for each issue in the corpus.
-
-## Description
+Each document contains the entire OCR:ed text, in markdown format, for a single Courier issue. The purpose of the curation is to manually check and correct the article segmentation for each issue in the corpus. The end goal is to mark up all text segments that belong to an article in such a way that it can be automatically extracted. To do this we need to insert a header above each text segment, as well as an indicator where the segment ends. 
 
 ***Document***
 
-The first line in the *document* `# [DOCUMENT_ID](link) [TOTAL_NUM_MISMATCHES]` is a header with a link to the original source PDF. `TOTAL_NUM_MISMATCHES` is the number of mismatching article titles in the *issue*.
+The first line in each *document* `# [DOCUMENT_ID](link) [TOTAL_NUM_MISMATCHES]` is a header with a link to its original source PDF. `TOTAL_NUM_MISMATCHES` is the number of mismatching article titles in the *issue*.
 
 ***Page***
 
 Each *page* begins with a header `## Page [PAGE-NUMBER](link) [NUM_MISMATCHES]` containing a link to the same page in the original PDF. `NUM_MISMATCHES` is the number of mismatching article titles on the page reported during the automatic text extraction.
 
-***Article segment***
+***Article***
 
-*Article segments* within pages are indicated by an article header `### ARTICLE_ID: article-title` line. The article title is taken from the Courier [article index](https://github.com/inidun/inidun_data/blob/main/courier/articles/article_index.csv).
+*Article* within pages are indicated by an article header `### ARTICLE_ID: article-title` line. The article title is taken from the Courier [article index](https://github.com/inidun/inidun_data/blob/main/courier/articles/article_index.csv).
 
 An *article segment* ends when any of the following is encountered:
 
@@ -26,8 +24,7 @@ An *article segment* ends when any of the following is encountered:
 | A non-article segment | `### NON-ARTICLE-TEXT`          |
 | A new page            | `## [PAGE-NUMBER](link)`        |
 
-
-### Example
+**Example**
 ```md
 # [123456](https://.../courier/123456eng.pdf) 12
 ## [Page 1](https://.../courier/123456eng.pdf#page=1) 0
@@ -44,10 +41,9 @@ non-article text
 2. Verify title position for pages with `NUM_MISMATCHES` == 0.
 3. Add `### NON-ARTICLE-TEXT` for text segments which don't contain article text.
 
-## Important guidelines
+### Important guidelines
 
  - If a new article header is added or changed (apart from those that already exist in the document, the title **must** be the same as for existing headers for the same article.
-
 
 ## TODO
  - [ ] Add Github action that checks that all article titles in each document exist in the article metadata index.
