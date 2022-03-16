@@ -44,7 +44,7 @@ non-article text
 
 ## Important guidelines
 
- - :exclamation: If a new article header is added or changed (apart from those that already exist in the document, the title **must** be the same as for existing headers for the same article.
+ - If a new article header is added or changed (apart from those that already exist in the document, the title **must** be the same as for existing headers for the same article.
 
 
 ## TODO
