@@ -50,8 +50,8 @@ non-article text
 ```
 
 ## Annotation workflow
-1. Correct title positions in pages with `NUM_MISMATCHES` > 0. Compare with PDF page and move title to the correct position within the page.
-2. Verify title position for pages with `NUM_MISMATCHES` == 0.
+1. Correct title positions in pages with `MISMATCHES` > 0. Compare with PDF page and move title to the correct position within the page.
+2. Verify title position for pages with `MISMATCHES` == 0.
 3. Add `### NON-ARTICLE-TEXT` for text segments which don't contain article text.
 
 ### Important guidelines
