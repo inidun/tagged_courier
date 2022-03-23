@@ -36,13 +36,17 @@ A *text segment* (article or non-article) **ends** when any of the following is 
 
 ```md
 # [123456](https://.../courier/123456eng.pdf) 12
+
 ## [Page 1](https://.../courier/123456eng.pdf#page=1) 0
+
 ### 78910: Title of article
+
 article text
-...
+
 ### NON-ARTICLE-TEXT
+
 non-article text
-...
+
 ```
 
 ## Annotation workflow
