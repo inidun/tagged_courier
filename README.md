@@ -30,7 +30,7 @@ A *text segment* (article or non-article) **ends** when any of the following is 
 | --------------------- | ----------------------------------- |
 | A new page heading    | `## [PAGE-NUMBER](link) MISMATCHES` |
 | A new article heading | `### ARTICLE_ID: another title`     |
-| A non-article heading | `### NON-ARTICLE-TEXT`              |
+| A non-article heading | `### IGNORE`                        |
 
 ### Example Document
 
@@ -43,7 +43,7 @@ A *text segment* (article or non-article) **ends** when any of the following is 
 
 article text
 
-### NON-ARTICLE-TEXT
+### IGNORE
 
 non-article text
 
@@ -52,7 +52,7 @@ non-article text
 ## Annotation workflow
 1. Correct title positions in pages with `MISMATCHES` > 0. Compare with PDF page and move title to the correct position within the page.
 2. Verify title position for pages with `MISMATCHES` == 0.
-3. Add `### NON-ARTICLE-TEXT` for text segments which don't contain article text.
+3. Add `### IGNORE` for text segments which don't contain article text.
 
 ### Important guidelines
 
