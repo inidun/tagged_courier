@@ -50,13 +50,20 @@ non-article text
 ```
 
 ## Annotation workflow
-1. Correct title positions in pages with `MISMATCHES` > 0. Compare with PDF page and move title to the correct position within the page.
-2. Verify title position for pages with `MISMATCHES` == 0.
-3. Add `### IGNORE` for text segments which don't contain article text.
+1. Process one issue at a time.
+1. Correct title positions for each pages. Compare with PDF page and move title to the correct position within the page.
+3. If article ends before new page or new article, mark ending by adding `### IGNORE`
+4. Add `### IGNORE` for text segments which don't contain article text.
+5. Add `### EDITORIAL` heading. Mark end of editorial with `### IGNORE`
+6. Push changes after completing each issue.
 
 ### Important guidelines
 
  - If a new article heading is added or changed (apart from those that already exist in the document, the title **must** be the same as for existing headings for the same article.
+ - Captions are a part of an article and should be included.
+ - Note problems with filename and line number.
+ - Text should not be changed or corrected.
+ - Each heading should be on new line. No other text is allowed on that line.
 
 ## Environment
 ### Prerequisites
