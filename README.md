@@ -17,7 +17,7 @@ Each *page* begins with a heading `## Page [PAGE-NUMBER](link) MISMATCHES` conta
 
 ### Article
 
-*Articles* within pages are indicated by an article heading `### ARTICLE_ID: article-title` line. The article title is taken from the Courier [article index](https://github.com/inidun/inidun_data/blob/main/courier/articles/article_index.csv).
+*Articles* within pages are indicated by an article heading `### ARTICLE_ID: article-title` line. The article title is taken from the [Courier Metadata Index](https://github.com/inidun/inidun_data/blob/main/courier/metadata/UNESCO_Courier_metadata.xlsx). The [article index](https://github.com/inidun/inidun_data/blob/main/courier/articles/article_index.csv) lists the articles in the Metadata Index.
 
 
 ### Text segment
