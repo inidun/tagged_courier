@@ -66,18 +66,26 @@ non-article text
  - Each heading should be on new line. No other text is allowed on that line.
 
 ## Environment
-### Prerequisites
+
+### In browser (Preferred)
+1. Navigate to https://github.com/inidun/tagged_courier in browser.
+2. Push `.` to open VS Code in browser.
+   
+### Alternative (Installation)
+#### Prerequisites
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
 2. Install [Git (Standalone)](https://git-scm.com/downloads)
 
 Use default options when installing.
-### Setup
+#### Setup
 
 1. Open ***Git CMD***
 2. Navigate to desired folder
 3. Clone repo `git clone https://github.com/inidun/tagged_courier.git`
 4. Open Visual Studio Code `code .`
+
+
 
 ### Keyboard Shortcut tips
 
