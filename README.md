@@ -59,13 +59,16 @@ non-article text
 7. If non-tagged article is found, mark with `### UNINDEXED_ARTICLE`.
 8. Push changes after completing each issue.
 
-### Important guidelines
+### Important
 
  - If a new article heading is added or changed (apart from those that already exist in the document, the title **must** be the same as for existing headings for the same article.
+ - Each heading should be on new line. No other text is allowed on that line.
+ 
+ ### Guidelines
+
  - Captions are a part of an article and should be included.
  - Note problems with filename and line number.
  - Text should not be changed or corrected.
- - Each heading should be on new line. No other text is allowed on that line.
 
 ## Environment
 
