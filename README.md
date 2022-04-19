@@ -56,7 +56,7 @@ non-article text
 4. If article ends before new page or new article, mark ending by adding `### IGNORE`
 5. Add `### IGNORE` for text segments which don't contain article text.
 6. Add `### EDITORIAL` heading. Mark end of editorial with `### IGNORE`
-7. If non-tagged article is found, mark with `### UNINDEXED_ARTICLE`.
+7. If non-tagged article is found, mark with `### UNINDEXED_ARTICLE`. This should be done on each page the article is on.
 8. Push changes after completing each issue.
 
 ### Important
