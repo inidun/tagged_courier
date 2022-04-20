@@ -50,14 +50,15 @@ non-article text
 ```
 
 ## Annotation workflow
-1. Pull remote changes. 
+1. **Pull** remote changes. 
 2. Process one issue at a time.
 3. Correct title positions for each pages. Compare with PDF page and move title to the correct position within the page.
 4. If article ends before new page or new article, mark ending by adding `### IGNORE`
 5. Add `### IGNORE` for text segments which don't contain article text.
 6. Add `### EDITORIAL` heading. Mark end of editorial with `### IGNORE`
 7. If non-tagged article is found, mark with `### UNINDEXED_ARTICLE`. This should be done on each page the article is on.
-8. Push changes after completing each issue.
+8. Report annotation progress in `progress.csv`
+9. **Push** changes after completing each issue.
 
 ### Important
 
@@ -72,25 +73,33 @@ non-article text
 
 ## Environment
 
-### In browser (Preferred)
+### VS Code
+
+#### In browser (Preferred)
 1. Navigate to https://github.com/inidun/tagged_courier in browser.
 2. Push `.` to open VS Code in browser.
    
-### Alternative (Installation)
-#### Prerequisites
+#### Alternative (Installation)
+##### Prerequisites
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/download)
 2. Install [Git (Standalone)](https://git-scm.com/downloads)
 
 Use default options when installing.
-#### Setup
+##### Setup
 
 1. Open ***Git CMD***
 2. Navigate to desired folder
 3. Clone repo `git clone https://github.com/inidun/tagged_courier.git`
 4. Open Visual Studio Code `code .`
 
+### Excel Viewer extension in VS Code web editor
+To simplify reporting progess in `progress.csv` you can install the `Excel Viewer`-extension.
 
+1. Open `Extensions` in the left hand menu (Or press `Ctrl` + `Shift` + `X`)
+2. Search for `GrapeCity.gc-excelviewer` and install.
+
+To use the extension right click on `progress.csv`, click `Open With...`, and choose `CSV Editor`.
 
 ### Keyboard Shortcut tips
 
