@@ -57,7 +57,7 @@ non-article text
 5. Add `### IGNORE` for text segments which don't contain article text.
 6. Add `### EDITORIAL` heading. Mark end of editorial with `### IGNORE`
 7. If non-tagged article is found, mark with `### UNINDEXED_ARTICLE`. This should be done on each page the article is on.
-8. Report annotation progress in `progress.csv`
+8. Report annotation progress in `progress.csv`. Tip: use [Excel Viewer](#excel-viewer-extension-in-vs-code-web-editor).
 9. **Push** changes after completing each issue.
 
 ### Important
