@@ -46,7 +46,7 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1951;74696;tagged_1951_074696;;;;;
 1952;70450;tagged_1952_070450;x;;6,7,8,9,10;periodical issue;
 1952;70922;tagged_1952_070922;x;;13,14,15;periodical issue, editorial;
-1952;70990;tagged_1952_070990;x;;3,4,5;periodical issue;OCR-fel i artikeltiteln s3
+1952;70990;tagged_1952_070990;x;3;3,4,5;periodical issue;
 1952;71048;tagged_1952_071048;x;;;;
 1952;71059;tagged_1952_071059;x;;;;
 1952;71076;tagged_1952_071076;x;14;4;;
@@ -60,15 +60,15 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1953;70196;tagged_1953_070196;10;;;;Se bild i worddokumentet
 1953;70219;tagged_1953_070219;8;;8,9;periodical issue;
 1953;70232;tagged_1953_070232;5;;;;
-1953;70250;tagged_1953_070250;;;;;
-1953;70268;tagged_1953_070268;;;;;
-1953;70452;tagged_1953_070452;;;;;
-1953;70568;tagged_1953_070568;;;;;
-1953;70841;tagged_1953_070841;;;;;
-1953;70862;tagged_1953_070862;;;;;
-1954;69904;tagged_1954_069904;;;;;
-1954;69916;tagged_1954_069916;;;;;
-1954;69962;tagged_1954_069962;;;;;
+1953;70250;tagged_1953_070250;8;;;;s8 Delad kolumn
+1953;70268;tagged_1953_070268;x;;;;
+1953;70452;tagged_1953_070452;x;;;;
+1953;70568;tagged_1953_070568;x;;;;
+1953;70841;tagged_1953_070841;x;;;;
+1953;70862;tagged_1953_070862;x;;;editorial;
+1954;69904;tagged_1954_069904;13;;;editorial;
+1954;69916;tagged_1954_069916;10;;;editorial;
+1954;69962;tagged_1954_069962;x;;;editorial;
 1954;69982;tagged_1954_069982;;;;;
 1954;70030;tagged_1954_070030;;;;;
 1954;70070;tagged_1954_070070;;;;;
