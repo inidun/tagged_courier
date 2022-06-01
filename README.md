@@ -46,7 +46,6 @@ article text
 ### IGNORE
 
 non-article text
-
 ```
 
 ## Annotation workflow
@@ -57,7 +56,7 @@ non-article text
 5. Add `### IGNORE` for text segments which don't contain article text.
 6. Add `### EDITORIAL` heading. Mark end of editorial with `### IGNORE`
 7. If non-tagged article is found, mark with `### UNINDEXED_ARTICLE`. This should be done on each page the article is on.
-8. Report annotation progress in `progress.csv`. Tip: use [Excel Viewer](#excel-viewer-extension-in-vs-code-web-editor).
+8. Report annotation progress in `progress.csv`.
 9. **Push** changes after completing each issue.
 
 ### Important
@@ -93,13 +92,7 @@ Use default options when installing.
 3. Clone repo `git clone https://github.com/inidun/tagged_courier.git`
 4. Open Visual Studio Code `code .`
 
-### Excel Viewer extension in VS Code web editor
-To simplify reporting progess in `progress.csv` you can install the `Excel Viewer`-extension.
 
-1. Open `Extensions` in the left hand menu (Or press `Ctrl` + `Shift` + `X`)
-2. Search for `GrapeCity.gc-excelviewer` and install.
-
-To use the extension right click on `progress.csv`, click `Open With...`, and choose `CSV Editor`.
 
 ### Keyboard Shortcut tips
 
