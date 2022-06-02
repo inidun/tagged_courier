@@ -76,10 +76,10 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1954;70464;tagged_1954_070464;x;;;editorial;
 1954;78140;tagged_1954_078140;x;;;editorial;
 1954;78141;tagged_1954_078141;x;4;;editorial;
-1955;68948;tagged_1955_068948;;;;;
-1955;68956;tagged_1955_068956;;;;;
-1955;68976;tagged_1955_068976;;;;;
-1955;68988;tagged_1955_068988;;;;;
+1955;68948;tagged_1955_068948;x;;;editorial;### 68942: Forgotten shadows: the cinema and its origins Står sid 5-7 i metadata men i själva verket är det 5-7 + 9-11, 13, 15-16, 18-19
+1955;68956;tagged_1955_068956;x;;;editorial;
+1955;68976;tagged_1955_068976;x;;;editorial;
+1955;68988;tagged_1955_068988;x;;;editorial;
 1955;69011;tagged_1955_069011;;;;;
 1955;69029;tagged_1955_069029;;;;;
 1955;69080;tagged_1955_069080;;;;;
