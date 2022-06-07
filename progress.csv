@@ -53,7 +53,7 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1952;71135;tagged_1952_071135;x;11;;;
 1952;71148;tagged_1952_071148;x;;;;
 1952;71276;tagged_1952_071276;x;;7,8,9,10,11;periodical issue;
-1952;73310;tagged_1952_073310;x;;;editorial;p6 Det finns ett < i texten vilket gör att det markeras rött i editorn, påverkas t.ex. nåt i koden som söker igenom av det?
+1952;73310;tagged_1952_073310;x;;;editorial;
 1952;73487;tagged_1952_073487;x;;;editorial;"1. Det finns en bilaga till utgåvan. Finns sist i pdf:en men i metafilen refereras till sidor som tolkas/refereras till ""huvudtidningen"", inte  till bilagan på rätt sätt (bilagan har dessutom inga sidnr). Fem artikelrubriker flyttade). 2. På sid 19 och 20 finns en kolumn som är kapad mitt i (halva på vardera sidan i uppslaget)"
 1953;70144;tagged_1953_070144;10;;7,8,9;periodical issue;
 1953;70186;tagged_1953_070186;15;;10,11,12;periodical issue;
