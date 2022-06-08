@@ -80,10 +80,10 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1955;68956;tagged_1955_068956;x;;;editorial;
 1955;68976;tagged_1955_068976;x;;;editorial;
 1955;68988;tagged_1955_068988;x;;;editorial;
-1955;69011;tagged_1955_069011;;;;;
-1955;69029;tagged_1955_069029;;;;;
-1955;69080;tagged_1955_069080;;;;;
-1955;69729;tagged_1955_069729;;;;;
+1955;69011;tagged_1955_069011;;;;editorial;
+1955;69029;tagged_1955_069029;15;;;editorial;
+1955;69080;tagged_1955_069080;25;;;editorial;"### Triangles and circles with magic meaning continues on page 65, this is not in the metadata. They call this edition a ""special edition"""
+1955;69729;tagged_1955_069729;20;;;editorial ;On page 15, some text not OCRed (white text on light background). 
 1955;69853;tagged_1955_069853;;;;;
 1955;78145;tagged_1955_078145;;;;;
 1956;68278;tagged_1956_068278;;;;;
