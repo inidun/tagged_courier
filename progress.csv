@@ -90,12 +90,12 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1956;68623;tagged_1956_068623;12;5,7,8;;editorial;editorial is considered an article
 1956;68778;tagged_1956_068778;15;;;editorial;editorial is considered an article
 1956;68829;tagged_1956_068829;15;15,16;;editorial;
-1956;68909;tagged_1956_068909;15;;;;
-1956;68910;tagged_1956_068910;;;;;
-1956;68941;tagged_1956_068941;;;;;
-1956;78148;tagged_1956_078148;;;;;
-1956;78150;tagged_1956_078150;;;;;
-1956;78152;tagged_1956_078152;;;;;
+1956;68909;tagged_1956_068909;15;;;editorial;
+1956;68910;tagged_1956_068910;20;;;editorial;special edition. On page 46, some text not OCRD (caption)
+1956;68941;tagged_1956_068941;15;;;editorial;
+1956;78148;tagged_1956_078148;10;;;editorial;
+1956;78150;tagged_1956_078150;10;;;editorial;
+1956;78152;tagged_1956_078152;10;;;editorial;p. 19 text not OCRed
 1957;66970;tagged_1957_066970;;;;;
 1957;67211;tagged_1957_067211;;;;;
 1957;67218;tagged_1957_067218;;;;;
