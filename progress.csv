@@ -87,28 +87,28 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1955;69853;tagged_1955_069853;20;;;editorial;
 1955;78145;tagged_1955_078145;15;;;editorial;
 1956;68278;tagged_1956_068278;10;;;editorial;
-1956;68623;tagged_1956_068623;12;5,7,8;;editorial;editorial is considered an article
+1956;68623;tagged_1956_068623;12;;5,7,8;editorial;editorial is considered an article
 1956;68778;tagged_1956_068778;15;;;editorial;editorial is considered an article
-1956;68829;tagged_1956_068829;15;15,16;;editorial;
+1956;68829;tagged_1956_068829;15;;15,16;editorial;
 1956;68909;tagged_1956_068909;15;;;editorial;
 1956;68910;tagged_1956_068910;20;;;editorial;special edition. On page 46, some text not OCRD (caption)
 1956;68941;tagged_1956_068941;15;;;editorial;
 1956;78148;tagged_1956_078148;10;;;editorial;
 1956;78150;tagged_1956_078150;10;;;editorial;
 1956;78152;tagged_1956_078152;10;;;editorial;p. 19 text not OCRed
-1957;66970;tagged_1957_066970;;;;;
-1957;67211;tagged_1957_067211;;;;;
-1957;67218;tagged_1957_067218;;;;;
-1957;67562;tagged_1957_067562;;;;;
-1957;67587;tagged_1957_067587;;;;;
-1957;67651;tagged_1957_067651;;;;;
-1957;67949;tagged_1957_067949;;;;;
-1957;67956;tagged_1957_067956;;;;;
-1957;68051;tagged_1957_068051;;;;;
-1957;68057;tagged_1957_068057;;;;;
-1957;78160;tagged_1957_078160;;;;;
-1957;78347;tagged_1957_078347;;;;;
-1958;66121;tagged_1958_066121;;;;;
+1957;66970;tagged_1957_066970;10;;;editorial;
+1957;67211;tagged_1957_067211;10;;;editorial;
+1957;67218;tagged_1957_067218;10;;4,5,6,7,8,9,10;editorial;Article about a woman's life non inndexed. In the article title file, there is a part 2 for this article in another issue of Courier
+1957;67562;tagged_1957_067562;10;;4,5,6;editorial;Non-indexed article, Great Littérature of East and West
+1957;67587;tagged_1957_067587;15;;;editorial;
+1957;67651;tagged_1957_067651;10;;4,6,8,9,10;editorial;
+1957;67949;tagged_1957_067949;10;;24,25,26;editorial;
+1957;67956;tagged_1957_067956;15;;4 to 15;editorial;Non-indexed article on Comenius. Text non OCRed p.31
+1957;68051;tagged_1957_068051;12;;;;
+1957;68057;tagged_1957_068057;15;;;editorial;
+1957;78160;tagged_1957_078160;10;;;editorial;
+1957;78347;tagged_1957_078347;10;;;;
+1958;66121;tagged_1958_066121;10;;;editorial;
 1958;66142;tagged_1958_066142;;;;;
 1958;66148;tagged_1958_066148;;;;;
 1958;66182;tagged_1958_066182;;;;;
