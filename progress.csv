@@ -92,7 +92,7 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1956;68829;tagged_1956_068829;15;;15,16;editorial;
 1956;68909;tagged_1956_068909;15;;;editorial;
 1956;68910;tagged_1956_068910;20;;;editorial;special edition. On page 46, some text not OCRD (caption)
-1956;68941;tagged_1956_068941;15;;;editorial;
+1956;68941;tagged_1956_068941;15;;7 to 11;editorial;With these two hands non indexed
 1956;78148;tagged_1956_078148;10;;;editorial;
 1956;78150;tagged_1956_078150;10;;;editorial;
 1956;78152;tagged_1956_078152;10;;;editorial;p. 19 text not OCRed
@@ -100,7 +100,7 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1957;67211;tagged_1957_067211;10;;;editorial;
 1957;67218;tagged_1957_067218;10;;4,5,6,7,8,9,10;editorial;Article about a woman's life non inndexed. In the article title file, there is a part 2 for this article in another issue of Courier
 1957;67562;tagged_1957_067562;10;;4,5,6;editorial;Non-indexed article, Great Littérature of East and West
-1957;67587;tagged_1957_067587;15;;;editorial;
+1957;67587;tagged_1957_067587;15;;;editorial;unsure if p.31 should be included or not 
 1957;67651;tagged_1957_067651;10;;4,6,8,9,10;editorial;
 1957;67949;tagged_1957_067949;10;;24,25,26;editorial;
 1957;67956;tagged_1957_067956;15;;4 to 15;editorial;Non-indexed article on Comenius. Text non OCRed p.31
@@ -109,28 +109,28 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1957;78160;tagged_1957_078160;10;;;editorial;
 1957;78347;tagged_1957_078347;10;;;;
 1958;66121;tagged_1958_066121;10;;;editorial;
-1958;66142;tagged_1958_066142;;;;;
-1958;66148;tagged_1958_066148;;;;;
-1958;66182;tagged_1958_066182;;;;;
-1958;66222;tagged_1958_066222;;;;;
-1958;66244;tagged_1958_066244;;;;;
-1958;66266;tagged_1958_066266;;;;;
-1958;66285;tagged_1958_066285;;;;;
-1958;66651;tagged_1958_066651;;;;;
-1958;78161;tagged_1958_078161;;;;;
-1958;78349;tagged_1958_078349;;;;;
-1958;78350;tagged_1958_078350;;;;;
-1959;64895;tagged_1959_064895;;;;;
-1959;64933;tagged_1959_064933;;;;;
-1959;65221;tagged_1959_065221;;;;;
-1959;65278;tagged_1959_065278;;;;;
-1959;66059;tagged_1959_066059;;;;;
-1959;66107;tagged_1959_066107;;;;;
-1959;66613;tagged_1959_066613;;;;;
-1959;66675;tagged_1959_066675;;;;;
-1959;78165;tagged_1959_078165;;;;;
-1959;78166;tagged_1959_078166;;;;;
-1959;78417;tagged_1959_078417;;;;;
+1958;66142;tagged_1958_066142;10;;8, 14-24;editorial;Young artists in Paris non indexed, Schools for Gypsies non indexed
+1958;66148;tagged_1958_066148;8;;;;### 66157: Galapagos: wonders of a Noah's Ark off the coast of Ecuador starts on page 18. Caption of ### 66161: Stamp collectors' wildlife album starts on 32
+1958;66182;tagged_1958_066182;10;;4 to 7;editorial;Ten years of progress non-indexed. Text non-OCRed p.4-5
+1958;66222;tagged_1958_066222;10;;14-24;;Masterworks of Japan's Stone Age Art non-indexed
+1958;66244;tagged_1958_066244;7;;14-19;editorial;From the neck up unindexed
+1958;66266;tagged_1958_066266;12;;8,9;editorial;There is no page 18 on the issue? After page 18, page numbers are incorrect Text non OCRed p.21
+1958;66285;tagged_1958_066285;7;;;editorial;
+1958;66651;tagged_1958_066651;7;;10,11,23,24,25,;;This issue has lots of small articles that are not indexed. I'm unsure of how to treat this issue as some are very small, and it is unclear if they belong to the article before or not
+1958;78161;tagged_1958_078161;8;;;editorial;
+1958;78349;tagged_1958_078349;6;;;editorial;
+1958;78350;tagged_1958_078350;8;;;editorial;
+1959;64895;tagged_1959_064895;8;;14,16,17;editorial;Birth of an island non indexed
+1959;64933;tagged_1959_064933;10;;;editorial;### 64915: Science, technology and man starts on p.4 not 5
+1959;65221;tagged_1959_065221;10;;10 to 20;editorial;Article about film making non-indexed
+1959;65278;tagged_1959_065278;7;;10 to 20;;Article about Rotterdam non-indexed
+1959;66059;tagged_1959_066059;7;;6,7,8;;40 years fo struggle on behalf os social justice non-indexed
+1959;66107;tagged_1959_066107;9;;18 to 23;;Liliput Paris non-indexed
+1959;66613;tagged_1959_066613;7;;;;
+1959;66675;tagged_1959_066675;10;;;;
+1959;78165;tagged_1959_078165;6;;;editorial;
+1959;78166;tagged_1959_078166;8;;;editorial;### 65244: Art and the troubled mind continues to page 30
+1959;78417;tagged_1959_078417;8;;;;
 1960;64515;tagged_1960_064515;;;;;
 1960;64522;tagged_1960_064522;;;;;
 1960;64690;tagged_1960_064690;;;;;
