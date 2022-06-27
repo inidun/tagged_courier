@@ -116,7 +116,7 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1958;66244;tagged_1958_066244;7;;14-19;editorial;From the neck up unindexed
 1958;66266;tagged_1958_066266;12;;8,9;editorial;There is no page 18 on the issue? After page 18, page numbers are incorrect Text non OCRed p.21
 1958;66285;tagged_1958_066285;7;;;editorial;
-1958;66651;tagged_1958_066651;7;;10,11,23,24,25,;;This issue has lots of small articles that are not indexed. I'm unsure of how to treat this issue as some are very small, and it is unclear if they belong to the article before or not
+1958;66651;tagged_1958_066651;7;;10,11,23,24,25,26.31;;This issue has lots of small articles that are not indexed. I'm unsure of how to treat this issue as some are very small, and it is unclear if they belong to the article before or not
 1958;78161;tagged_1958_078161;8;;;editorial;
 1958;78349;tagged_1958_078349;6;;;editorial;
 1958;78350;tagged_1958_078350;8;;;editorial;
@@ -215,56 +215,62 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1967;78224;tagged_1967_078224;7;;;;
 1967;78226;tagged_1967_078226;10;;;;
 1967;78231;tagged_1967_078231;6;;;;
-1967;78367;tagged_1967_078367;;;;;
-1967;78370;tagged_1967_078370;;;;;
-1967;78371;tagged_1967_078371;;;;;
-1967;78449;tagged_1967_078449;;;;;
-1968;58803;tagged_1968_058803;;;;;
-1968;58953;tagged_1968_058953;;;;;
-1968;59301;tagged_1968_059301;;;;;
-1968;78234;tagged_1968_078234;;;;;
-1968;78237;tagged_1968_078237;;;;;
-1968;78240;tagged_1968_078240;;;;;
-1968;78241;tagged_1968_078241;;;;;
-1968;78306;tagged_1968_078306;;;;;
-1968;78373;tagged_1968_078373;;;;;
-1968;78431;tagged_1968_078431;;;;;
-1969;57247;tagged_1969_057247;;;;;
-1969;57783;tagged_1969_057783;;;;;
-1969;58067;tagged_1969_058067;;;;;
-1969;58738;tagged_1969_058738;;;;;
-1969;78244;tagged_1969_078244;;;;;
-1969;78245;tagged_1969_078245;;;;;
-1969;78246;tagged_1969_078246;;;;;
-1969;78247;tagged_1969_078247;;;;;
-1969;78289;tagged_1969_078289;;;;;
-1969;78290;tagged_1969_078290;;;;;
-1969;78375;tagged_1969_078375;;;;;
-1970;56740;tagged_1970_056740;;;;;
-1970;56743;tagged_1970_056743;;;;;
-1970;56857;tagged_1970_056857;;;;;
-1970;56988;tagged_1970_056988;;;;;
-1970;78253;tagged_1970_078253;;;;;
-1970;78255;tagged_1970_078255;;;;;
-1970;78262;tagged_1970_078262;;;;;
-1970;78264;tagged_1970_078264;;;;;
-1970;78378;tagged_1970_078378;;;;;
-1970;78379;tagged_1970_078379;;;;;
-1970;184442;tagged_1970_184442;;;;;
-1971;52770;tagged_1971_052770;;;;;
-1971;52879;tagged_1971_052879;;;;;
-1971;52935;tagged_1971_052935;;;;;
-1971;53853;tagged_1971_053853;;;;;
-1971;53888;tagged_1971_053888;;;;;
-1971;54453;tagged_1971_054453;;;;;
-1971;78266;tagged_1971_078266;;;;;
-1971;78268;tagged_1971_078268;;;;;
-1971;78269;tagged_1971_078269;;;;;
-1971;78380;tagged_1971_078380;;;;;
-1971;78447;tagged_1971_078447;;;;;
-1972;52257;tagged_1972_052257;;;;;
-1972;78271;tagged_1972_078271;;;;;
-1972;78273;tagged_1972_078273;;;;;
+1967;78367;tagged_1967_078367;6;;;;
+1967;78370;tagged_1967_078370;10;;;;
+1967;78371;tagged_1967_078371;10;;;;
+1967;78449;tagged_1967_078449;5;;;;
+1968;58803;tagged_1968_058803;8;;4;;Health in the world of tomorrow non-indexed
+1968;58953;tagged_1968_058953;6;;5;;The abuse of drugs a growing menace not indexed 
+1968;59301;tagged_1968_059301;7;;4,5,6;;Human rights... Tomorrow non-indexed
+1968;78234;tagged_1968_078234;5;;;;
+1968;78237;tagged_1968_078237;7;;;;### 58948: A Talk with Princess Ashraf of Iran is not on 25
+1968;78240;tagged_1968_078240;10;;;;"### 59109: Japan's contribution to Western literature and the arts continues on 30, 46-48. 
+### 59223: Hokkaido, frontier land of the far north starts on 62"
+1968;78241;tagged_1968_078241;10;;;;
+1968;78306;tagged_1968_078306;8;14;;;"caption non OCR on 14. 
+### 59065: UNESCO should become the organization for youth not on 48"
+1968;78373;tagged_1968_078373;6;;;;
+1968;78431;tagged_1968_078431;5;36;;;Great men great events unindexed, usually considered an article
+1969;57247;tagged_1969_057247;9;;;;"
+### 57267: UNESCO's programme for 1969-1970 starts on 40"
+1969;57783;tagged_1969_057783;5;;;;
+1969;58067;tagged_1969_058067;5;;;;
+1969;58738;tagged_1969_058738;5;;;;
+1969;78244;tagged_1969_078244;5;;;;
+1969;78245;tagged_1969_078245;4;28;;;caption non ocred on 28
+1969;78246;tagged_1969_078246;13;;;;"
+### 58445: Saving our vanishing forests continues on 9. 
+### 58684: Vernacular languages in changing Africa continues on 33"
+1969;78247;tagged_1969_078247;7;;;;
+1969;78289;tagged_1969_078289;4;;;;
+1969;78290;tagged_1969_078290;4;;;;
+1969;78375;tagged_1969_078375;3;;;;
+1970;56740;tagged_1970_056740;7;;;;
+1970;56743;tagged_1970_056743;4;;;;
+1970;56857;tagged_1970_056857;4;;;;### 56859: Man's perpetual quest for water continues on 32
+1970;56988;tagged_1970_056988;7;;;;
+1970;78253;tagged_1970_078253;5;;;;### 56754: Is the space effort a waste of money? Begins on 4
+1970;78255;tagged_1970_078255;5;;;;
+1970;78262;tagged_1970_078262;7;;;;
+1970;78264;tagged_1970_078264;5;;;;
+1970;78378;tagged_1970_078378;5;;;;
+1970;78379;tagged_1970_078379;9;;;;
+1970;184442;tagged_1970_184442;4;;;;
+1971;52770;tagged_1971_052770;4;;;;
+1971;52879;tagged_1971_052879;5;;;;
+1971;52935;tagged_1971_052935;5;;;;
+1971;53853;tagged_1971_053853;7;;;;### 53854: Seasons of the mind is an extremely long article with sub-articles. Those are not indexed, everything under main article
+1971;53888;tagged_1971_053888;6;;;;"
+### 53914: Ageless voices of poets & writers not on 46"
+1971;54453;tagged_1971_054453;5;;;;
+1971;78266;tagged_1971_078266;8;;;;
+1971;78268;tagged_1971_078268;7;;;;
+1971;78269;tagged_1971_078269;9;;;;
+1971;78380;tagged_1971_078380;5;;;;
+1971;78447;tagged_1971_078447;7;;;;
+1972;52257;tagged_1972_052257;5;;;;
+1972;78271;tagged_1972_078271;8;;;;
+1972;78273;tagged_1972_078273;7;;;;
 1972;78274;tagged_1972_078274;;;;;
 1972;78276;tagged_1972_078276;;;;;
 1972;78279;tagged_1972_078279;;;;;
