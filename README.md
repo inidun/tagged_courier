@@ -26,11 +26,12 @@ Sequences of text that are not headings in the formats described above are calle
 
 A *text segment* (article or non-article) **ends** when any of the following is encountered:
 
-| Description           | Example                             |
-| --------------------- | ----------------------------------- |
-| A new page heading    | `## [PAGE-NUMBER](link) MISMATCHES` |
-| A new article heading | `### ARTICLE_ID: another title`     |
-| A non-article heading | `### IGNORE`                        |
+| Description                  | Example                             |
+| ---------------------------- | ----------------------------------- |
+| A new page heading           | `## [PAGE-NUMBER](link) MISMATCHES` |
+| A new article heading        | `### ARTICLE_ID: another title`     |
+| A non-article heading        | `### IGNORE`                        |
+| An unindexed article heading | `### UNINDEXED_ARTICLE`             |
 
 ### Example Document
 
@@ -46,6 +47,10 @@ article text
 ### IGNORE
 
 non-article text
+
+### UNINDEXED_ARTICLE
+
+unindexed article text
 ```
 
 ## Annotation workflow
