@@ -356,21 +356,21 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1979;74771;tagged_1979_074771;6;;;;"### 44506: The Mole and the butterfly; reflections on Einstein, science and subjectivity is not on 26"
 1979;74776;tagged_1979_074776;6;;;;### UNINDEXED_SUPPLEMENT
 1979;74777;tagged_1979_074777;15;;;;
-1979;74778;tagged_1979_074778;4;;;;
+1979;74778;tagged_1979_074778;4;;;;### UNINDEXED_SUPPLEMENT
 1979;74780;tagged_1979_074780;5;;;;
-1980;40945;tagged_1980_040945;5;;;;### 40962: Palladio: the master-builder of the Italian Renaissance continues on 23-24
-1980;42993;tagged_1980_042993;5;;;;### 42995: Stone Age myth-sculptors of Siberia starts on 24
-1980;74642;tagged_1980_074642;6;;;;### 41136: The Soviet Peace Fund continues on 29
-1980;74755;tagged_1980_074755;15;;32-34, 39-45;;"### UNINDEXED_ARTICLE: Highlights of the archeological expeditions . 
+1980;40945;tagged_1980_040945;5;;;;### 40962: Palladio: the master-builder of the Italian Renaissance continues on 23-24. ### UNINDEXED_SUPPLEMENT
+1980;42993;tagged_1980_042993;5;;;;### 42995: Stone Age myth-sculptors of Siberia starts on 24. ### UNINDEXED_SUPPLEMENT
+1980;74642;tagged_1980_074642;6;;;editorial;### 41136: The Soviet Peace Fund continues on 29. ### UNINDEXED_SUPPLEMENT
+1980;74755;tagged_1980_074755;15;;32-34, 39-45;editorial;"### UNINDEXED_ARTICLE: Highlights of the archeological expeditions . 
 ### 40934: Sermons in stones: the musings of a modern Egyptian poet before the temples of Abu Simbel continues on 61. ### 40926: Nubia unearthed: from prehistory to Pharaonic times continues on 70"
-1980;74756;tagged_1980_074756;7;;;;
+1980;74756;tagged_1980_074756;7;;4 to 6;;### UNINDEXED_ARTICLE: Man belongs to the earth. ### UNINDEXED_SUPPLEMENT
 1980;74757;tagged_1980_074757;5;;;;
-1980;74758;tagged_1980_074758;20;;14-19;;### 366755: Address by His Holiness Pope John Paul II ... Is ONLY on page 9. ### UNINDEXED_ARTICLE: Nine  award-winning campaigns. SPECIAL SUPPLEMENTS?
-1980;74760;tagged_1980_074760;5;;;;
-1980;74761;tagged_1980_074761;3;;;;
-1980;74765;tagged_1980_074765;6;;;;
-1980;74766;tagged_1980_074766;10;;;;### 43022: Guernica: a universal image of the inhumanity of war begins on 14
-1981;74734;tagged_1981_074734;11;;;;Problem with the issue. Pages missing from PDF, thus page 22 in the tagging should be 26, etc.
+1980;74758;tagged_1980_074758;20;;14-19;;### 366755: Address by His Holiness Pope John Paul II ... Is ONLY on page 9. ### UNINDEXED_ARTICLE: Nine  award-winning campaigns. ### UNINDEXED_SUPPLEMENT
+1980;74760;tagged_1980_074760;5;;;editorial;
+1980;74761;tagged_1980_074761;3;;;editorial;
+1980;74765;tagged_1980_074765;6;;;editorial;
+1980;74766;tagged_1980_074766;10;;;editorial;### 43022: Guernica: a universal image of the inhumanity of war begins on 14
+1981;74734;tagged_1981_074734;11;;;editorial;Problem with the issue. Pages missing from PDF, thus page 22 in the tagging should be 26, etc.
 1981;74735;tagged_1981_074735;7;;;;
 1981;74736;tagged_1981_074736;5;;;;
 1981;74737;tagged_1981_074737;5;;;;
@@ -379,15 +379,16 @@ year;courier_id;filename;time;ocr;unindexed;comments;
 1981;74744;tagged_1981_074744;7;;;;
 1981;74748;tagged_1981_074748;15;;;;
 1981;74751;tagged_1981_074751;5;;;;
-1981;74752;tagged_1981_074752;6;;;;
+1981;74752;tagged_1981_074752;6;;;editorial;
 1981;74754;tagged_1981_074754;7;;;;
-1982;74712;tagged_1982_074712;5;;;;### 48134: Patterns of drug use: reports from nine countries only starts on 12
+1982;74712;tagged_1982_074712;5;;;editorial;### 48134: Patterns of drug use: reports from nine countries only starts on 12
 1982;74713;tagged_1982_074713;4;;;;
-1982;74714;tagged_1982_074714;5;;;;
-1982;74715;tagged_1982_074715;;;;;
-1982;74717;tagged_1982_074717;;;;;
-1982;74720;tagged_1982_074720;;;;;
-1982;74721;tagged_1982_074721;;;;;
+1982;74714;tagged_1982_074714;5;;;editorial;
+1982;74715;tagged_1982_074715;6;;;editorial;"
+### 48217: Centuries in stone also on 27"
+1982;74717;tagged_1982_074717;7;;;editorial;
+1982;74720;tagged_1982_074720;8;;;editorial;
+1982;74721;tagged_1982_074721;15;;;editorial;
 1982;74723;tagged_1982_074723;;;;;
 1982;74732;tagged_1982_074732;;;;;
 1982;74796;tagged_1982_074796;;;;;
