@@ -516,9 +516,10 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 1992;91412;tagged_1992_091412;11;;;editorial;How deal with greenwork?;
 1992;92021;tagged_1992_092021;13;;40-41;editorial;How deal with greenwork? UNINDEXED ARTICLE: Interview with Francesco di Castri;
 1992;92231;tagged_1992_092231;11;;;editorial;Greenwork;
-1992;92573;tagged_1992_092573;;;;;;
-1992;92651;tagged_1992_092651;;;;;;
-1992;93019;tagged_1992_093019;;;;;;
+1992;92573;tagged_1992_092573;8;;;;Greenwork;
+1992;92651;tagged_1992_092651;7;;;editorial;Greenwork;
+1992;93019;tagged_1992_093019;9;;26-27, 28-29;editorial;"
+2 ### UNINDEXED_ARTICLE in Greenwork: The salt of earth, sun wind and fire. And: Puerto Rico saves its treasures";
 1993;93364;tagged_1993_093364;;;;;;
 1993;93440;tagged_1993_093440;;;;;;
 1993;93670;tagged_1993_093670;;;;;;
