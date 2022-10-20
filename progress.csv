@@ -523,12 +523,12 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 1993;93364;tagged_1993_093364;16;;9, 28-29, 30-31;;"### UNINDEXED_ARTICLE: From here to infinity. 
 ### 93356: Face to face with infinity is not on page 25-32. 
 ### UNINDEXED_ARTICLE: A good word for paper ### UNINDEXED_ARTICLE: In western Keny";
-1993;93440;tagged_1993_093440;;;;editorial;;
-1993;93670;tagged_1993_093670;;;;;;
-1993;93750;tagged_1993_093750;;;;;;
-1993;94277;tagged_1993_094277;;;;;;
-1993;94420;tagged_1993_094420;;;;;;
-1993;95092;tagged_1993_095092;;;;;;
+1993;93440;tagged_1993_093440;10;;;editorial;;
+1993;93670;tagged_1993_093670;10;;50;;### UNINDEXED_ARTICLE: An atlas of world literature;
+1993;93750;tagged_1993_093750;10;;;editorial;### UNINDEXED_ARTICLE: Don Juan and the quest for the absolute;
+1993;94277;tagged_1993_094277;6;;;;;
+1993;94420;tagged_1993_094420;7;;;editorial;Editorial as an article;
+1993;95092;tagged_1993_095092;10;;28-30;editorial;### UNINDEXED_ARTICLE: Greenwatch is not completely indexed;
 1993;95106;tagged_1993_095106;;;;;;
 1993;95141;tagged_1993_095141;;;;;;
 1993;95767;tagged_1993_095767;;;;;;
