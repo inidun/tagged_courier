@@ -552,10 +552,11 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 1995;100263;tagged_1995_100263;9;;46;editorial;"Editorial as an article + Greenwatch """;
 1995;100576;tagged_1995_100576;14;;;editorial;### 100574: Saving the cinematic heritage: appeal by the Director-General of UNESCO cotinues on 85;
 1995;101119;tagged_1995_101119;19;;46;editorial;"Greenwatch """;
-1995;101202;tagged_1995_101202;;;;;;
-1995;101488;tagged_1995_101488;;;;;;
-1995;102011;tagged_1995_102011;;;;;;
-1996;102540;tagged_1996_102540;;;;;;
+1995;101202;tagged_1995_101202;10;;;editorial;"### 101233: What next? specialized agency chiefs look ahead continues on 45-46 +  Greenwatch """;
+1995;101488;tagged_1995_101488;10;;;editorial;"
+### 101501: Shimon Peres: passion and patience begins on 24";
+1995;102011;tagged_1995_102011;20;;;editorial;Problematic document. Some pages not a part of the journal, pages are wrong, index to redo;
+1996;102540;tagged_1996_102540;16;;;editorial;;
 1996;102554;tagged_1996_102554;;;;;;
 1996;102577;tagged_1996_102577;;;;;;
 1996;102622;tagged_1996_102622;;;;;;
