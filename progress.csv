@@ -594,12 +594,14 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 1999;114699;tagged_1999_114699;30;;;editorial;editorial as article;
 1999;114969;tagged_1999_114969;35;;;editorial;"editorial as article. 
 ### 262562: What price water? Only on 17";
-1999;115117;tagged_1999_115117;;;;;;
-1999;115591;tagged_1999_115591;;;;;;
-1999;115858;tagged_1999_115858;;;;;;
-1999;116241;tagged_1999_116241;;;;;;
-1999;116578;tagged_1999_116578;;;;;;
-1999;117043;tagged_1999_117043;;;;;;
+1999;115117;tagged_1999_115117;35;;;editorial;editorial as article;
+1999;115591;tagged_1999_115591;25;;;editorial;"editorial as article. 
+### 115603: Basketball at midnight continues on 26. 
+### 115614: Latin America's endangered frequencies continues on 45";
+1999;115858;tagged_1999_115858;25;;;editorial;editorial as article;
+1999;116241;tagged_1999_116241;25;;;editorial;editorial as article;
+1999;116578;tagged_1999_116578;30;;;editorial;editorial as article;
+1999;117043;tagged_1999_117043;;;;editorial;editorial as article;
 1999;117419;tagged_1999_117419;;;;;;
 1999;117896;tagged_1999_117896;;;;;;
 1999;118279;tagged_1999_118279;;;;;;
