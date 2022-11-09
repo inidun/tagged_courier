@@ -19,6 +19,7 @@ Each *page* begins with a heading `## Page [PAGE-NUMBER](link) MISMATCHES` conta
 
 *Articles* within pages are indicated by an article heading `### ARTICLE_ID: article-title` line. The article title is taken from the [Courier Metadata Index](https://github.com/inidun/inidun_data/blob/main/courier/metadata/UNESCO_Courier_metadata.xlsx). The [article index](https://github.com/inidun/inidun_data/blob/main/courier/articles/article_index.csv) lists the articles in the Metadata Index.
 
+Unindexed articles, undindexed supplements and editorials are indicated by corresponding headings, see examples below.
 
 ### Text segment
 
@@ -26,12 +27,14 @@ Sequences of text that are not headings in the formats described above are calle
 
 A *text segment* (article or non-article) **ends** when any of the following is encountered:
 
-| Description                  | Example                             |
-| ---------------------------- | ----------------------------------- |
-| A new page heading           | `## [PAGE-NUMBER](link) MISMATCHES` |
-| A new article heading        | `### ARTICLE_ID: another title`     |
-| A non-article heading        | `### IGNORE`                        |
-| An unindexed article heading | `### UNINDEXED_ARTICLE`             |
+| Description                     | Example                             |
+| ------------------------------- | ----------------------------------- |
+| A new page heading              | `## [PAGE-NUMBER](link) MISMATCHES` |
+| A new article heading           | `### ARTICLE_ID: another title`     |
+| A non-article heading           | `### IGNORE`                        |
+| An unindexed article heading    | `### UNINDEXED_ARTICLE`             |
+| An unindexed supplement heading | `### UNINDEXED_SUPPLEMENT`          |
+| An editorial heading            | `### EDITORIAL`                     |
 
 ### Example Document
 
@@ -51,6 +54,14 @@ non-article text
 ### UNINDEXED_ARTICLE
 
 unindexed article text
+
+### UNINDEXED_SUPPLEMENT
+
+unindexed supplement text
+
+### EDITORIAL
+
+editorial text
 ```
 
 ## Annotation workflow
