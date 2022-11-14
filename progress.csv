@@ -601,11 +601,12 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 1999;115858;tagged_1999_115858;25;;;editorial;editorial as article;
 1999;116241;tagged_1999_116241;25;;;editorial;editorial as article;
 1999;116578;tagged_1999_116578;30;;;editorial;editorial as article;
-1999;117043;tagged_1999_117043;;;;editorial;editorial as article;
-1999;117419;tagged_1999_117419;;;;;;
-1999;117896;tagged_1999_117896;;;;;;
-1999;118279;tagged_1999_118279;;;;;;
-2000;118482;tagged_2000_118482;;;;;;
+1999;117043;tagged_1999_117043;30;;;editorial;editorial as article;
+1999;117419;tagged_1999_117419;20;;;editorial;editorial as article;
+1999;117896;tagged_1999_117896;25;;;editorial;editorial as aticle. ### 117897: The Sheltering screen continues on 6-7-8;
+1999;118279;tagged_1999_118279;35;;;editorial;"editorial as article. 
+### 118280: Circus flashbacks continues on 8";
+2000;118482;tagged_2000_118482;30;;;;;
 2000;118789;tagged_2000_118789;;;;;;
 2000;119217;tagged_2000_119217;;;;;;
 2000;119473;tagged_2000_119473;;;;;;
