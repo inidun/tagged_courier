@@ -631,9 +631,13 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 2001;124785;tagged_2001_124785;25;;;editorial;editorial as article ;
 2002;125736;tagged_2002_125736;30;;39-59;editorial;### UNINDEXED_ARTICLE: Decrypting the future;
 2002;127885;tagged_2002_127885;40;;38-63, 67, 68;editorial;### UNINDEXED_ARTICLE: A nation at the crossroads, UNINDEXED_ARTICLE: Cubes and spheres, UNINDEXED_ARTICLE: Young people rally to fight AIDS;
-2003;130036;tagged_2003_130036;;;;;;
-2003;132107;tagged_2003_132107;;;;;;
-2004;133120;tagged_2004_133120;;;;;;
+2003;130036;tagged_2003_130036;40;;41-42;editorial;"### 130038: Borderless education is not on 15. 
+### 130044: A Leap of faith is not on 34. 
+### UNINDEXED_ARTICLE: literacy for a better world.
+### 130047: Donors drag their heels starts on 48
+### 130050: The Language barrier begins on 52";
+2003;132107;tagged_2003_132107;0;;;;No text has been OCRed;
+2004;133120;tagged_2004_133120;45;;;editorial;;
 2004;135045;tagged_2004_135045;;;;;;
 2004;137745;tagged_2004_137745;;;;;;
 2004;138446;tagged_2004_138446;;;;;;
