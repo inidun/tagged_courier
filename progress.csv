@@ -663,14 +663,26 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 2008;158580;tagged_2008_158580;5;;;editorial;;
 2008;159919;tagged_2008_159919;7;;;editorial;;
 2008;162430;tagged_2008_162430;8;;16-18;editorial;"### UNINDEXED_ARTICLE: Stop ""fast food information""";
-2008;162711;tagged_2008_162711;;;;;;
-2008;163541;tagged_2008_163541;;;;;;
-2008;179406;tagged_2008_179406;;;;;;
-2008;179880;tagged_2008_179880;;;;;;
-2008;183304;tagged_2008_183304;;;;;;
-2008;184034;tagged_2008_184034;;;;;;
-2008;189457;tagged_2008_189457;;;;;;
-2009;185815;tagged_2009_185815;;;;;;
+2008;162711;tagged_2008_162711;20;;;editorial;"### 162769: Claude Lévi-Strauss and UNESCO starts on page 5 and is not on 9. ### 162770: Pakistan: spiritual home and national reality is not on 9, continues on 16. ### 162773: Human mathematics is not on 25. 
+### 162778: How the social sciences have humanised technical civilisation is not on 29.  
+### 162779: Giving: making a wish is not on 31, but on 38, not on 39
+### 162781: These cooks did not spoil the broth starts on 35
+### 162780: Witch-doctors and psychoanalysis is not on 35. 
+### 162782: Today's crisis in anthropology is not on 47. 
+### 162784: A Difficult survey is not on 49. 
+### 162785: Lévi-Strauss remembers... is on 49-50, not 51-52";
+2008;163541;tagged_2008_163541;12;;1 to 4, 19-21;;"### UNINDEXED_ARTICLE: a permanent challenge.
+### 163585: Legendary Camagüey is not on 6. 
+### 163603: A World cradle of agriculture starts on 13. 
+### UNINDEXED_ARTICLE: The people who made history dance";
+2008;179406;tagged_2008_179406;6;;;;;
+2008;179880;tagged_2008_179880;4;;;;;
+2008;183304;tagged_2008_183304;4;;;;### 183353: Ideology clashing with history continues on 12;
+2008;184034;tagged_2008_184034;3;;;editorial;Editorial as article;
+2008;189457;tagged_2008_189457;20;4-8, 11-14, 17-18, 21-23, 28, 32-35, 38, 42-46;39-40, 47-49;;"Lots of pages not OCRed, they are scan of older articles. 
+### 189839: Ruth Benedict's last message on... cultural continuity in civilized world is not on 36-37, but on 38. ### UNINDEXED_ARTICLE: Education: the other global emergency. 
+### UNINDEXED_ARTICLE: Down trough the years";
+2009;185815;tagged_2009_185815;8;;;;;
 2009;185818;tagged_2009_185818;;;;;;
 2009;185864;tagged_2009_185864;;;;;;
 2009;185900;tagged_2009_185900;;;;;;
