@@ -705,9 +705,10 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 ### 248125: Innovative partnerships for change is not on 27-30, but on 31-34";
 2017;252318;tagged_2017_252318;35;;;editorial;Editorial as article;
 2017;259765;tagged_2017_259765;25;;;editorial;Editorial as article ;
-2018;261279;tagged_2018_261279;;;;;;
-2018;261900;tagged_2018_261900;;;;;;
-2018;265211;tagged_2018_265211;;;;;;
+2018;261279;tagged_2018_261279;30;;;editorial;;
+2018;261900;tagged_2018_261900;20;;;editorial;"
+### 261916: Young Africans: reinventing politics continues on 59";
+2018;265211;tagged_2018_265211;25;;;editorial;;
 2018;265904;tagged_2018_265904;;;;;;
 2019;366654;tagged_2019_366654;;;;;;
 2019;367693;tagged_2019_367693;;;;;;
