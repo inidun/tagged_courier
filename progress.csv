@@ -709,10 +709,10 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 2018;261900;tagged_2018_261900;20;;;editorial;"
 ### 261916: Young Africans: reinventing politics continues on 59";
 2018;265211;tagged_2018_265211;25;;;editorial;;
-2018;265904;tagged_2018_265904;;;;;;
-2019;366654;tagged_2019_366654;;;;;;
-2019;367693;tagged_2019_367693;;;;;;
-2019;370032;tagged_2019_370032;;;;;;
+2018;265904;tagged_2018_265904;25;;;editorial;;
+2019;366654;tagged_2019_366654;20;;;editorial;Editorial as article;
+2019;367693;tagged_2019_367693;25;;;editorial;Editorial as article. Titles of articles in French;
+2019;370032;tagged_2019_370032;20;;;editorial;Editorial as article. Titles of articles in French;
 2019;370977;tagged_2019_370977;;;;;;
 2020;372603;tagged_2020_372603;;;;;;
 2020;373788;tagged_2020_373788;;;;;;
