@@ -1,6 +1,6 @@
 year;courier_id;filename;time;ocr;unindexed;comments;;
-1947;146744;tagged_1947_146744;;;;;;
-1948;73649;tagged_1948_073649;;;;;;
+1947;146744;tagged_1947_146744;;;;all articles are unindexed;;
+1948;73649;tagged_1948_073649;;;1;### UNINDEXED_ARTICLE: Conference sets programme for 1948;;
 1948;73683;tagged_1948_073683;;;;;;
 1948;73713;tagged_1948_073713;;;;;;
 1948;73741;tagged_1948_073741;;;;;;
@@ -98,7 +98,7 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 1956;78152;tagged_1956_078152;10;;;editorial;p. 19 text not OCRed;
 1957;66970;tagged_1957_066970;10;;;editorial;;
 1957;67211;tagged_1957_067211;10;;;editorial;;
-1957;67218;tagged_1957_067218;10;;4,5,6,7,8,9,10;editorial;Article about a woman's life non inndexed. In the article title file, there is a part 2 for this article in another issue of Courier;
+1957;67218;tagged_1957_067218;10;;4,5,6,7,8,9,10;editorial;Article about a woman's life non indexed. In the article title file, there is a part 2 for this article in another issue of Courier;
 1957;67562;tagged_1957_067562;10;;4,5,6;editorial;Non-indexed article, Great Littérature of East and West;
 1957;67587;tagged_1957_067587;15;;;editorial;unsure if p.31 should be included or not ;
 1957;67651;tagged_1957_067651;10;;4,6,8,9,10;editorial;;
@@ -713,6 +713,7 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 2019;366654;tagged_2019_366654;20;;;editorial;Editorial as article;
 2019;367693;tagged_2019_367693;25;;;editorial;Editorial as article. Titles of articles in French;
 2019;370032;tagged_2019_370032;20;;;editorial;Editorial as article. Titles of articles in French;
-2019;370977;tagged_2019_370977;;;;;;
-2020;372603;tagged_2020_372603;;;;;;
-2020;373788;tagged_2020_373788;;;;;;
+2019;370977;tagged_2019_370977;30;;7,8,9;editorial;"Editorial as article. Titles of article in French.
+### UNINDEXED_ARTICLE: A second-chance school in Montreal";
+2020;372603;tagged_2020_372603;30;;18-19;editorial;### UNINDEXED_ARTICLE: A voice you can't see;
+2020;373788;tagged_2020_373788;30;;34-35;editorial;Titles of articles in French. ### UNINDEXED_ARTICLE: Women's writing: Illuminating the darkness;
