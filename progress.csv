@@ -28,10 +28,12 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 1950;81286;tagged_1950_081286;;;;;;
 1950;81370;tagged_1950_081370;;;;;;
 1950;81400;tagged_1950_081400;;;;;;
-1950;81475;tagged_1950_081475;;;;;;
-1950;81543;tagged_1950_081543;;;;;;
-1950;81564;tagged_1950_081564;;;;;;
-1950;81592;tagged_1950_081592;;;;;;
+1950;81475;tagged_1950_081475;25;6,13;;"Page 13, 
+### 74396: Dutch painters put sky views on canvas not OCRed. Page 6, 
+### 74381: Six new UNESCO Executive Board members elected by the General Conference not OCRed";;
+1950;81543;tagged_1950_081543;15;;;Lots of small articles, unclear if unindexed or not. ;;
+1950;81564;tagged_1950_081564;20;;;Lots of small articles, unclear if unindexed or not;;
+1950;81592;tagged_1950_081592;50;;;;;
 1950;81616;tagged_1950_081616;;3;;Page number incorrect;;
 1951;71298;tagged_1951_071298;20;;2,11;### UNINDEXED_ARTICLE;;
 1951;71299;tagged_1951_071299;10;;;;;
