@@ -21,10 +21,13 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 1949;74055;tagged_1949_074055;;;;;;
 1949;74116;tagged_1949_074116;;;;;;
 1949;74130;tagged_1949_074130;;;;;;
-1949;74184;tagged_1949_074184;;;;;;
-1950;74946;tagged_1950_074946;;;;;;
-1950;74968;tagged_1950_074968;;;;;;
-1950;74977;tagged_1950_074977;;2, 7, 9, 12;;"### 74263: (Julian Huxley) is not on page 2. 
+1949;74184;tagged_1949_074184;35;8;;"Lots of small articles, unclear if unindexed or not. 
+### 74193: Educators must help establish ""techniques of peace"" not OCRed";;
+1950;74946;tagged_1950_074946;30;3,5,9,10;;"### UNINDEXED_ARTICLE: The will to peace. 
+### 74217: L'UNESCO définit les bases de sa coopération avec les Organisations régionales is not on page 3. 
+### 74218: Great Unescan becomes head of Executive Board not OCRed. ### 74224: World task seen through eyes of youth not OCRed. ### 74230: La Déclaration des droits de la femme à l'éducation et à la culture prend le sens d'un appel bad OCR. Page 10 bad OCR";;
+1950;74968;tagged_1950_074968;25;;;;;
+1950;74977;tagged_1950_074977;25;2, 7, 9, 12;;"### 74263: (Julian Huxley) is not on page 2. 
 ### 74271: Men against the desert: a new Sahara 'garrison'; the desert scientists is not on page 7";;
 1950;81286;tagged_1950_081286;25;;;;;
 1950;81370;tagged_1950_081370;20;5;;"Lots of small articles, unclear if unindexed or not. 
