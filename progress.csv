@@ -24,10 +24,12 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 1949;74184;tagged_1949_074184;;;;;;
 1950;74946;tagged_1950_074946;;;;;;
 1950;74968;tagged_1950_074968;;;;;;
-1950;74977;tagged_1950_074977;;;;;;
-1950;81286;tagged_1950_081286;;;;;;
-1950;81370;tagged_1950_081370;;;;;;
-1950;81400;tagged_1950_081400;;;;;;
+1950;74977;tagged_1950_074977;;2, 7, 9, 12;;"### 74263: (Julian Huxley) is not on page 2. 
+### 74271: Men against the desert: a new Sahara 'garrison'; the desert scientists is not on page 7";;
+1950;81286;tagged_1950_081286;25;;;;;
+1950;81370;tagged_1950_081370;20;5;;"Lots of small articles, unclear if unindexed or not. 
+### 74331: The World laughs at different things continues on 7";;
+1950;81400;tagged_1950_081400;25;3;1, 10;Lots of small articles, unclear if unindexed or not. Page 3 some text not OCRed. 1 and 10: Humanity is under no compulsion to abdicate;;
 1950;81475;tagged_1950_081475;25;6,13;;"Page 13, 
 ### 74396: Dutch painters put sky views on canvas not OCRed. Page 6, 
 ### 74381: Six new UNESCO Executive Board members elected by the General Conference not OCRed";;
