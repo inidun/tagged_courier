@@ -11,15 +11,24 @@ year;courier_id;filename;time;ocr;unindexed;comments;;
 1948;73850;tagged_1948_073850;;;;;;
 1948;73867;tagged_1948_073867;;;;;;
 1949;73886;tagged_1949_073886;;;;;;
-1949;73912;tagged_1949_073912;;;;;;
-1949;73938;tagged_1949_073938;;;;;;
-1949;73956;tagged_1949_073956;;;;;;
-1949;73970;tagged_1949_073970;;;;;;
-1949;73993;tagged_1949_073993;;;;;;
-1949;74013;tagged_1949_074013;;;;;;
-1949;74029;tagged_1949_074029;;;;;;
-1949;74055;tagged_1949_074055;;9, 16;;"Difficulty with some of the fonts, OCR. ### 74078: The Fourth session of the General Conference of UNESCO will be held in Paris 19th September - 4th October 1949 is not on 14, , 15, 16, 17
-### 74084: Some of UNESCO's achievements during 1949 not OCR";;
+1949;73912;tagged_1949_073912;25;;;;;
+1949;73938;tagged_1949_073938;35;;9-11,12;"### 73948: The Mission of UNESCO is not on page 1, 2, 3, 4
+### UNINDEXED_ARTICLE: The mission of UNESCO: 9-11
+### UNINDEXED_ARTICLE: Torres Bodet's Sorbonne Address On Declaration of Human Rights";;
+1949;73956;tagged_1949_073956;25;;1,2;### UNINDEXED_ARTICLE: UNESCO can aid UN plan for under-developed areas, torres bodet says;;
+1949;73970;tagged_1949_073970;25;;;"Lots of small articles, unclear if unindexed or not. 
+### 73976: Summer camp for war orphans to open in France is on 4, not 3. 
+### 73978: India in the world today name of the supplement including different articles. Not on 6, 7, 8, 9";;
+1949;73993;tagged_1949_073993;40;;1,2;"### UNINDEXED_ARTICLE: $85,000,000 Proposed by UN for Technical Development Plan. 
+### 74002: The Rebirth of a valley: how the peasants of Marbial helped make the Haiti Pilot Project a success not on 6-9 (well, it's a supplement, composed of smaller articles). 
+### 74003: The Story of the Haiti 'Pilot Project' continues on 8";;
+1949;74013;tagged_1949_074013;30;;;"
+### 74014: UNESCO Board votes emergency aid for Greek refugee children not on page 2";;
+1949;74029;tagged_1949_074029;20;;;;;
+1949;74055;tagged_1949_074055;60;9, 16, 26;;"Difficulty with some of the fonts, OCR. ### 74078: The Fourth session of the General Conference of UNESCO will be held in Paris 19th September - 4th October 1949 is not on 14, , 15, 16, 17
+### 74084: Some of UNESCO's achievements during 1949 not OCR. Sometimes unclear what is an article or not, page 20 not author? 
+### 74100: Les chemins de la paix not OCRed. 
+### 74089: Children's communities not on 30";;
 1949;74116;tagged_1949_074116;5;;;;;
 1949;74130;tagged_1949_074130;80;;7;"### 74134: Les chapitres du budget is not on page 3. 
 ### 74143: L'action culturelle et spirituelle est liée au pouvoir politique et militaire linked to no article? 
