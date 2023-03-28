@@ -1,4 +1,4 @@
-﻿Colonne1;year;record_number;pages;catalogue_title;authors
+﻿courier_id;year;record_number;pages;catalogue_title;authors
 59709;1967;1443;[30, 31];The Study of animal behaviour;Oppenheimer, Jane
 33144;1966;1614;[14, 15, 16, 17, 18, 23];New outposts of science;Fedorov, Evgueni
 78226;1967;2297;[4, 5, 6, 7, 8, 36];Birth of a new Africa;D'Arboussier, Gabriel
@@ -7720,7 +7720,6 @@
 370977;2019;380108;[7, 8, 9];A second-chance school in Montreal;Fréchet, Lyne
 372603;2020;380109;[18, 19];A voice you can't see;Rodero, Emma
 373788;2020;380110;[34, 35];Women's writing: Illuminating the darkness;Yongming, Zhai
-146744;1947;380111;[1, 3];Paris newsletter;
 81400;1950;380112;[1, 10];Humanity is under no compulsion to abdicate;
 70450;1952;380113;[6, 7, 8, 9, 10, 11];Leonardo Da Vinci, the universal genius;Benito, José de
 70922;1952;380114;[13, 14, 15];The Care of old paintings;Fradier, Georges
