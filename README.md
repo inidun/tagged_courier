@@ -2,12 +2,12 @@
 
 ## Description
 
-| Folder            | Description                                                                                        |
-| ----------------- | -------------------------------------------------------------------------------------------------- |
-| `curated_issues`  | Curated issue corpus. See inidun/tagged_courier#18.                                                |
-| `tagged_issues`   | Tagged issue corpus. Basis for [article corpus](https://github.com/inidun/courier_article_corpus). |
-| `rescanned_pages` | Rescanned pages. See inidun/tagged_courier#11.                                                     |
-| `ocred_issues`    | OCRed and tagged issues. See inidun/tagged_courier#11.                                             |
+| Folder            | Description                                                                                                                              |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| `curated_issues`  | Curated issue corpus. See inidun/tagged_courier#18.                                                                                      |
+| `tagged_issues`   | Curated and annotated issue corpus. See inidun/tagged_courier#19. Basis for [article corpus](https://github.com/inidun/curated_courier). |
+| `rescanned_pages` | Rescanned pages. See inidun/tagged_courier#11.                                                                                           |
+| `ocred_issues`    | OCRed and tagged issues. See inidun/tagged_courier#11.                                                                                   |                                                                                   |
 
 ## Introduction
 
