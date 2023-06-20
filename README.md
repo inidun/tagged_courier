@@ -1,5 +1,14 @@
 # Courier corpus article segmentation
 
+## Description
+
+| Folder            | Description                                                                                        |
+| ----------------- | -------------------------------------------------------------------------------------------------- |
+| `curated_issues`  | Curated issue corpus. See inidun/tagged_courier#18.                                                |
+| `tagged_issues`   | Tagged issue corpus. Basis for [article corpus](https://github.com/inidun/courier_article_corpus). |
+| `rescanned_pages` | Rescanned pages. See inidun/tagged_courier#11.                                                     |
+| `ocred_issues`    | OCRed and tagged issues. See inidun/tagged_courier#11.                                             |
+
 ## Introduction
 
 Each document contains the entire OCR:ed text, in markdown format, for a single Courier issue. The purpose of the curation is to manually check and correct the article segmentation for each issue in the corpus. The end goal is to mark up all text segments that belong to an article in such a way that it can be automatically extracted. To do this we need to insert a heading above each text segment, as well as an indicator where the segment ends. 
