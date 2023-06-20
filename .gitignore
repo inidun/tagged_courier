@@ -1,4 +1,3 @@
-.vscode
 tagged_issues/*
 !tagged_issues/*.md
 tmp/
