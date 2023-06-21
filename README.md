@@ -1,4 +1,4 @@
-# Courier corpus article segmentation
+# Courier Corpus curation and annotation
 
 ## Description
 
