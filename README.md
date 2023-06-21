@@ -8,7 +8,8 @@
 | `metadata`         | Article index files. Used to create the [Curated Courier](https://github.com/inidun/curated_courier) corpus.                                         |
 | `curated_issues`   | Curated issue corpus. See inidun/tagged_courier#18.                                                                                                  |
 | `rescanned_pages`  | Rescanned pages. See inidun/tagged_courier#11.                                                                                                       |
-| `ocred_issues`     | OCRed and tagged issues. See inidun/tagged_courier#11.                                                                                               |  |
+| `ocred_issues`     | OCRed and tagged issues. See inidun/tagged_courier#11.                                                                                               |
+| `workflow`         | Files used in the curation and annotation workflow.                                                                                                  |
 
 ## Introduction
 
